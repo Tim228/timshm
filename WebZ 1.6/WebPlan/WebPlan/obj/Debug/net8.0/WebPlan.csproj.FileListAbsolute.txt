@@ -1,0 +1,293 @@
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\appsettings.json
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.staticwebassets.runtime.json
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.exe
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.deps.json
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.runtimeconfig.json
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.pdb
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.AssemblyInfo.cs
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.RazorAssemblyInfo.cache
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.RazorAssemblyInfo.cs
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.WebPlan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.build.WebPlan.props
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebPlan.props
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebPlan.props
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\bundle\WebPlan.styles.css
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\projectbundle\WebPlan.bundle.scp.css
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\refint\WebPlan.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.pdb
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.genruntimeconfig.cache
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\ref\WebPlan.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.Up2Date
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\appsettings.json
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.staticwebassets.runtime.json
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.exe
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.deps.json
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.runtimeconfig.json
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.pdb
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.AssemblyInfo.cs
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.RazorAssemblyInfo.cache
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.RazorAssemblyInfo.cs
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.WebPlan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.build.WebPlan.props
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebPlan.props
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebPlan.props
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\bundle\WebPlan.styles.css
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\projectbundle\WebPlan.bundle.scp.css
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.Up2Date
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\refint\WebPlan.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.pdb
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.genruntimeconfig.cache
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\obj\Debug\net8.0\ref\WebPlan.dll
+C:\Users\artur\Desktop\WebZ\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.AssemblyInfo.cs
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.RazorAssemblyInfo.cache
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.RazorAssemblyInfo.cs
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\refint\WebPlan.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.pdb
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\appsettings.json
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.staticwebassets.runtime.json
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.exe
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.deps.json
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.runtimeconfig.json
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.pdb
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.DAL.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.Domain.dll
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.DAL.pdb
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.Domain.pdb
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.WebPlan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.build.WebPlan.props
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebPlan.props
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebPlan.props
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\bundle\WebPlan.styles.css
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\projectbundle\WebPlan.bundle.scp.css
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.Up2Date
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.genruntimeconfig.cache
+C:\Users\artur\Desktop\WebZ 1.5\WebPlan\WebPlan\obj\Debug\net8.0\ref\WebPlan.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.AssemblyInfo.cs
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.RazorAssemblyInfo.cache
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.RazorAssemblyInfo.cs
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\refint\WebPlan.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.pdb
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\appsettings.json
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.staticwebassets.runtime.json
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.exe
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.deps.json
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.runtimeconfig.json
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.pdb
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.DAL.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.Domain.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.Service.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.DAL.pdb
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.Domain.pdb
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\bin\Debug\net8.0\WebPlan.Service.pdb
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.WebPlan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.build.WebPlan.props
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebPlan.props
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebPlan.props
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\bundle\WebPlan.styles.css
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\scopedcss\projectbundle\WebPlan.bundle.scp.css
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.csproj.Up2Date
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\WebPlan.genruntimeconfig.cache
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan\obj\Debug\net8.0\ref\WebPlan.dll

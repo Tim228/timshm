@@ -1,0 +1,24 @@
+﻿@model List<WebPlan.Domain.Entity.DataRecord>
+
+<h2>Список пользователей</h2>
+<p><a asp-action="Index">Добавить пользователя</a></p>
+<table class="table">
+     <tr><th>Дата</th><th>Время</th><th>Почта</th><th>Номер</th></tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Calendar</td>
+            <td>@item.Time</td>
+            <td>@item.Email</td>
+            <td>+@item.Phone.ToString().Remove(item.Phone.ToString().Length-3)</td>
+            <td>
+                <a asp-action="Edit" asp-controller="Home" asp-route-id="@item.Id">Изменить</a>
+            </td>
+            <td>
+                <form asp-controller="Home" asp-action="Delete" method="post" asp-route-id="@item.Id">
+                    <input type="submit" value="Удалить" />
+                </form>
+            </td>
+        </tr>
+    }
+</table>

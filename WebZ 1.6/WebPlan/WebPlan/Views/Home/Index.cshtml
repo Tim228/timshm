@@ -1,0 +1,37 @@
+﻿@using WebPlan.Domain.ViewModels
+@model DateViewModel
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+    </head>
+@if(Context.User.Identity.IsAuthenticated)
+{ <h6>Добро пожаловать @User.Identity.Name</h6> }
+
+<body class="image-container">
+        <form method="post" controller="Home" action="CheckDate">
+            <div class="poscalendar">
+            <div class="container mt-5">
+                <div class="row">
+                    <div class="col-md-6 offset-md-3">
+                        <input type="text" name="Calendar" asp-for="Calendar" id="airdatepicker" placeholder="Выбрать дату" class="form-control" />
+                        <span asp-validation-for="Calendar"></span>
+                    </div>
+                </div>
+            </div>
+            <script>
+                var currentDate = new Date();
+                new AirDatepicker('#airdatepicker', {
+                    isMobile: true,
+                    autoClose: true,
+                    minDate: currentDate.setDate(currentDate.getDate()),
+                    maxDate: currentDate.setDate(currentDate.getDate() + 5)
+                });
+            </script>
+
+            <input type="submit" value="Выбрать время>">
+            </div>
+        </form>
+    </body>
+</html>

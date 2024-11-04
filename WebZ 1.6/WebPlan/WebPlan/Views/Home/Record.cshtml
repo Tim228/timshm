@@ -1,0 +1,209 @@
+﻿@using WebPlan.Domain.Entity
+@model IQueryable<DataRecord>
+
+@if (Model != null)
+{
+    @foreach (var record in Model)
+    {
+        switch (record.Time)
+        {
+            case TimeOnly(10, 00):
+                <script>
+                    $(document).ready(() => {
+                        $('#100').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(10, 40):
+                <script>
+                    $(document).ready(() => {
+                        $('#104').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(11, 20):
+                <script>
+                    $(document).ready(() => {
+                        $('#112').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(12, 00):
+                <script>
+                    $(document).ready(() => {
+                        $('#120').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(12, 40):
+                <script>
+                    $(document).ready(() => {
+                        $('#124').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(13, 20):
+                <script>
+                    $(document).ready(() => {
+                        $('#132').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(14, 00):
+                <script>
+                    $(document).ready(() => {
+                        $('#140').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(14, 40):
+                <script>
+                    $(document).ready(() => {
+                        $('#144').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(15, 20):
+                <script>
+                    $(document).ready(() => {
+                        $('#152').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(16, 00):
+                <script>
+                    $(document).ready(() => {
+                        $('#160').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(16, 40):
+                <script>
+                    $(document).ready(() => {
+                        $('#164').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(17, 20):
+                <script>
+                    $(document).ready(() => {
+                        $('#172').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(18, 00):
+                <script>
+                    $(document).ready(() => {
+                        $('#180').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(18, 40):
+                <script>
+                    $(document).ready(() => {
+                        $('#184').prop('disabled', true)
+                    });
+                </script>
+                break;
+            case TimeOnly(19, 20):
+                <script>
+                    $(document).ready(() => {
+                        $('#192').prop('disabled', true)
+                    });
+                </script>
+                break;
+        }
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Hello</title>
+</head>
+<body>
+    <form method="post" asp-controller="Home" asp-action="Check">
+
+        <!-- form(time) -->
+        <div class="truncate">
+            Выберите время
+            <div class="pos">
+                <label>
+                    <input type="radio" required name="Time" id="100" value="10:00">
+                    10:00
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="104" value="10:40">
+                    10:40
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="112" value="11:20">
+                    11:20
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="120" value="12:00">
+                    12:00
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="124" value="12:40">
+                    12:40
+                </label>     
+            </div>
+            <div class="pos2">
+                <label>
+                    <input type="radio" name="Time" id="132" value="13:20">
+                    13:20
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="140" value="14:00">
+                    14:00
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="144" value="14:40">
+                    14:40
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="152" value="15:20">
+                    15:20
+                </label>               
+                <label>
+                    <input type="radio" name="Time" id="160" value="16:00">
+                    16:00
+                </label>              
+            </div>
+            <div class="pos3">
+                <label>
+                    <input type="radio" name="Time" id="164" value="16:40">
+                    16:40
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="172" value="17:20">
+                    17:20
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="180" value="18:00">
+                    18:00
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="184" value="18:40">
+                    18:40
+                </label>
+                <label>
+                    <input type="radio" name="Time" id="192" value="19:20">
+                    19:20
+                </label>
+            </div>
+        </div>
+
+        <div class="posnf">
+            <p>
+                <input type="tel" name="Phone" id="phone" min="11" max="11" placeholder="номер телефона" required />
+                <script src="/js/site.js"></script>
+            </p>
+            <input type="submit" value="Запись"><br />
+            <br /> <br /> <br />
+        </div>
+    </form>
+</body>
+</html>

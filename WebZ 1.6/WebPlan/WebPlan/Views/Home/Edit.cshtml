@@ -1,0 +1,24 @@
+﻿@model WebPlan.Domain.Entity.DataRecord
+
+@* <h5>Редактирование данных</h5> *@
+<form asp-action="edit" asp-controller="home" asp-route-id="@Model.Id">
+    <div class="edit">
+        <p>
+            <h6>Изменить номер телефона: </h6>
+            +<input type="text" asp-for="Phone" id="phone" maxlength="11" placeholder="номер телефона" required />
+            @* <script src="/js/site.js"></script> *@
+        </p>
+        <p>
+            <input type="submit" value="Сохранить" />
+        </p>
+        <p>
+            <br /><br />
+            <h6>Другие данные: </h6>
+            <input type="text" value="@Model.Calendar" asp-for="Calendar" readonly />
+
+            <input type="text" value="@Model.Time" asp-for="Time" readonly />
+
+            <input type="text" value="@Model.Email" asp-for="Email" readonly />
+        </p>
+    </div>
+</form>

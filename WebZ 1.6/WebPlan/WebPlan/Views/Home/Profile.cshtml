@@ -1,0 +1,22 @@
+﻿@model IQueryable<WebPlan.Domain.Entity.DataRecord>
+
+<h6>@User.Identity.Name</h6>
+<table class="table">
+    <tr><th>Дата</th><th>Время</th><th>Номер</th></tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Calendar</td>
+            <td>@item.Time</td>
+            <td>+@item.Phone.ToString().Remove(item.Phone.ToString().Length - 3)</td>
+            <td>
+                <a asp-action="Edit" asp-controller="Home" asp-route-id="@item.Id">Изменить</a>
+            </td>
+            <td>
+                <form asp-controller="Home" asp-action="Delete" method="post" asp-route-id="@item.Id">
+                    <input type="submit" value="Удалить" />
+                </form>
+            </td>
+        </tr>
+    }
+</table>

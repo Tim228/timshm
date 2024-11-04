@@ -1,0 +1,17 @@
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\WebPlan.Service.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\WebPlan.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\WebPlan.Service.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\WebPlan.Service.AssemblyInfo.cs
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\WebPlan.Service.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\bin\Debug\net8.0\WebPlan.Service.deps.json
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\bin\Debug\net8.0\WebPlan.Service.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\bin\Debug\net8.0\WebPlan.Service.pdb
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\bin\Debug\net8.0\WebPlan.DAL.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\bin\Debug\net8.0\WebPlan.Domain.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\bin\Debug\net8.0\WebPlan.DAL.pdb
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\bin\Debug\net8.0\WebPlan.Domain.pdb
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\WebPlan..8D201ECD.Up2Date
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\WebPlan.Service.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\refint\WebPlan.Service.dll
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\WebPlan.Service.pdb
+C:\Users\artur\Desktop\WebZ 1.51\WebPlan\WebPlan.Service\obj\Debug\net8.0\ref\WebPlan.Service.dll

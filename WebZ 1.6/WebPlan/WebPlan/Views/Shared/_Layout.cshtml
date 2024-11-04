@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Saltanat.com</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <script src="/js/site.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/style.css" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="/air-datepicker-3/dist/air-datepicker.css" />
+    <script src="/air-datepicker-3/dist/air-datepicker.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery.maskedinput@1.4.1/src/jquery.maskedinput.min.js" type="text/javascript"></script>
+    
+    <script>console.log($)</script>
+</head>
+<body>
+    <div class="wrapper">
+        <header class="header header-main">
+            <div class="container">
+                <div class="header__inner">
+                    <a class="logo" href="/">
+                        <img class="logo__img" src="~/images/logo100x100.png" alt="" />
+                    </a>
+                    <nav class="menu">
+                        <ul class="menu__list">
+                            <li class="menu__list-item">
+                                <a class="menu__list-link" asp-area="" asp-controller="Home" asp-action="Index">Записаться</a>
+                            </li>
+                            <li class="menu__list-item">
+                                <a class="menu__list-link" asp-area="" asp-controller="Home" asp-action="Profile">Мои записи</a>
+                            </li>
+                            <li class="menu__list-item">
+                                <a class="menu__list-link" asp-controller="Login" asp-action="Login" class="btn btn-primary form-control">Войти через Google</a>
+                            </li>
+                            <li class="menu__list-item">
+                                <a class="menu__list-link" asp-controller="Login" asp-action="Logout" class="btn btn-primary form-control">Выйти</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+
+        <div class="privacy">
+            <footer class="footer">
+                <div class="container">
+                    <nav class="footer__menu">
+                        <ul class="footer__menu-list">
+                            <li class="footer__menu-item">
+                                <div class="footer__menu-link">&copy; Все права защищены - <a asp-area="" asp-controller="Info" asp-action="Privacy">Privacy policy</a></div>
+                            </li>
+                        </ul>
+                        <ul class="footer__menu-list">
+                            <li class="footer__menu-item">
+                                <div class="footer__menu-link"><a asp-area="" asp-controller="Info" asp-action="Contacts">Контакты</a></div>
+                            </li>
+                        </ul>
+                        <ul class="footer__menu-list">
+                            <li class="footer__menu-item">
+                                <div class="footer__menu-link">&copy;2024.<a asp-area="" asp-controller="Info" asp-action="Cookie">Политика использования файлов cookie</a></div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </footer>
+        </div>
+        @await RenderSectionAsync("Scripts", required: false)
+    </div>
+</body>
+</html>

@@ -1,0 +1,275 @@
+
+/*Кнопка записи*/
+main input[type="submit"] {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 19px;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 7px;
+    background: #ea2b00;
+    font-weight: bold;
+    color:beige;
+    /*color: #833904;*/
+    cursor:pointer;
+}
+
+    main input[type="submit"]:hover{
+        background: #d96614;
+    }
+
+    /*отображение ошибок*/
+    main form span{
+        color: #ff0000;
+        font-weight: bold;
+        display:block;
+        font-size:12px;
+    }
+    footer{
+        margin-top: 150px;
+        text-align:end;
+    }
+/*Record из Test1*/
+
+:root {
+    --hue: 223;
+    --bg: hsl(var(--hue),90%,90%);
+    --fg: hsl(var(--hue),90%,10%);
+    --primary: hsl(var(--hue),90%,50%);
+    --trans-dur: 0.3s;
+    --trans-timing: cubic-bezier(0.65,0,0.35,1);
+    font-size: calc(16px + (24 - 16) * (100vw - 320px) / (2560 - 320));
+}
+
+body,
+input {
+    color: var(--fg);
+    font: 1em/1.5 "DM Sans", sans-serif;
+}
+
+body {
+    background-color: var(--bg);
+/*    display: flex;
+*/    height: 100vh;
+    transition: background-color var(--trans-dur), color var(--trans-dur);
+    user-select: none;
+}
+
+main {
+    margin: auto;
+    padding: 1.5em 0;
+    width: 100%;
+}
+
+form {
+    margin: auto;
+    max-width: 20em;
+    position: relative;
+    width: calc(100% - 3em);
+}
+
+label,
+input[type="radio"] {
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+}
+
+label {
+    background-color: hsla(0,0%,100%,0);
+    border-radius: 0.75em;
+    display: flex;
+    align-items: center;
+    padding: 1.5em;
+    transition: background-color var(--trans-dur);
+}
+
+input[type="radio"] {
+    background-color: hsl(0,0%,100%);
+    border-radius: 50%;
+    box-shadow: 0 0 0 0.0625em hsl(var(--hue),90%,80%), 0 0.125em 0.125em 0.0625em hsla(var(--hue),90%,10%,0.3);
+    flex-shrink: 0;
+    margin-inline-end: 1em;
+    outline: transparent;
+    position: relative;
+    width: 1.5em;
+    height: 1.5em;
+    transition: background-color var(--trans-dur), box-shadow var(--trans-dur);
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+    input[type="radio"]:before,
+    input[type="radio"]:after {
+        border-radius: 50%;
+        content: "";
+        display: block;
+        position: absolute;
+        transform: scale(0);
+        transition: transform var(--trans-dur) var(--trans-timing);
+    }
+
+    input[type="radio"]:before {
+        box-shadow: 0 0 0 0.5em var(--primary) inset, 0 0 0 0.0625em var(--primary);
+        top: -0.0625em;
+        left: -0.0625em;
+        width: calc(100% + 0.125em);
+        height: calc(100% + 0.125em);
+    }
+
+    input[type="radio"]:after {
+        background-color: hsl(0,0%,100%);
+        top: 25%;
+        left: 25%;
+        width: 50%;
+        height: 50%;
+    }
+
+    input[type="radio"]:checked:before,
+    input[type="radio"]:checked:after {
+        transform: scale(1);
+    }
+
+label:has(input[type="radio"]:checked),
+label:has(input[type="radio"]:not(:checked)):hover {
+    background-color: hsla(0,0%,100%,0.5);
+}
+
+.selection {
+    border-radius: 0.75em;
+    box-shadow: 0 0 0 0.125em var(--primary) inset;
+    display: none;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4.5em;
+    transition: transform var(--trans-dur) var(--trans-timing);
+}
+
+label:has(input[type="radio"]:checked) ~ .selection {
+    animation: fade-in var(--trans-dur) var(--trans-timing);
+    display: inherit;
+}
+
+label:nth-of-type(2):has(input[type="radio"]:checked) ~ .selection {
+    transform: translateY(100%);
+}
+
+label:nth-of-type(3):has(input[type="radio"]:checked) ~ .selection {
+    transform: translateY(200%);
+}
+
+.truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+ /*Dark theme */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: hsl(var(--hue),90%,10%);
+        --fg: hsl(var(--hue),90%,90%);
+    }
+
+    label {
+        background-color: hsla(var(--hue),90%,30%,0);
+    }
+
+        label:has(input[type="radio"]:checked),
+        label:has(input[type="radio"]:not(:checked)):hover {
+            background-color: hsla(var(--hue),90%,30%,0.5);
+        }
+
+    input[type="radio"] {
+        background-color: hsl(var(--hue),90%,30%);
+        box-shadow: 0 0 0 0.0625em hsl(var(--hue),90%,50%), 0 0.125em 0.125em 0.0625em hsla(var(--hue),90%,10%,0.3);
+    }
+}
+ /*Animations */
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+input:disabled{
+    background-color:darkgrey;
+}
+
+/*    Позиция выбора времени*/
+.pos{
+    position:absolute;
+    left:-90px;
+}
+.pos2 {
+    position: absolute;
+    left:90px;
+}
+.pos3{
+    position:absolute;
+    left:270px;
+}
+
+/*Позиция ввода телефона*/
+.posnf {
+    position: absolute;
+    top: 500px;
+    --fg: hsl(var(--hue),90%,10%);
+}
+
+/*List*/
+td{
+    color:azure;
+}
+tr{
+    color:slategrey;
+}
+
+/*главная картинка*/
+.image-container {
+    background-image: url(../images/20240704_135349.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+form{text-align:center;}
+
+/*Menu*/
+.hamburger-icon::before,
+.hamburger-icon::after{
+    content: "";
+    position: absolute;
+    transition: all 0.25s;
+    left: 0;
+}
+
+input[type=text]{
+    color: black;
+}
+
+.hamburger-icon,
+.hamburger-icon::before,
+.hamburger-icon::after{
+    width: 46px;
+    height:4px;
+    background:var(--secondary);
+    border-radius:20px;
+}
+
+.hamburger-icon::before{
+    top: -13px;
+}
+.hamburger-icon::after{
+    top:13px;
+}
+.open .hamburger-icon{
+    background-color: transparent;
+}

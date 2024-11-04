@@ -1,0 +1,1349 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebPlan.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebPlan.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\.eslintrc.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\.eslintrc.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\.gitignore",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\.npmignore",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\.npmignore"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\LICENSE.md",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\README.md",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\__mocks__\\scssMock.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\__mocks__\\scssMock.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\babel.config.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\babel.config.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\README.md",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\air-datepicker.css",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\air-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\air-datepicker.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\air-datepicker.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\air-datepicker.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\air-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\index.es.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\index.es.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ar.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\bg.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\bg.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ca.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ca.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\cs.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\cs.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\da.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\da.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\da.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\de.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\de.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\de.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\el.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\el.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\el.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\en.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\en.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\en.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\es.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\es.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\es.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\eu.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\eu.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\fi.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\fi.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\fr.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\fr.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\hr.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\hr.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\hu.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\hu.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\id.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\id.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\id.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\it.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\it.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\it.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ja.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ja.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ko.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ko.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\nb.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\nb.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\nl.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\nl.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\pl.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\pl.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\pt-BR.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\pt-BR.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\pt-BR.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\pt.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\pt.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ro.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ro.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ru.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ru.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\si.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\si.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\si.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\sk.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\sk.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\sl.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\sl.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\sv.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\sv.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\th.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\th.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\th.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\tr.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\tr.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\uk.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\uk.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\zh.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\zh.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\locale\\zh.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\locale\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\package.json",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\dist\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\.eslintrc.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\.eslintrc.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\README.md",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\class\\index.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\class\\index.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\class\\main.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\class\\main.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\class\\prompt.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\class\\prompt.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\class\\scss.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\class\\scss.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\fc\\index.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\fc\\index.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\fc\\main.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\fc\\main.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\fc\\prompt.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\fc\\prompt.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\fc\\scss.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\fc\\scss.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\page\\index.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\page\\index.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\page\\main.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\page\\main.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\new\\page\\scss.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\new\\page\\scss.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\shared\\classComponent.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\shared\\classComponent.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\shared\\componentPrompt.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\shared\\componentPrompt.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\shared\\index.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\shared\\index.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\_templates\\shared\\scss.ejs.t",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\_templates\\shared\\scss.ejs.t"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\airDatepicker\\airDatepicker.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\airDatepicker\\airDatepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\airDatepicker\\airDatepicker.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\airDatepicker\\airDatepicker.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\airDatepicker\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\airDatepicker\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\code\\code.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\code\\code.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\code\\code.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\code\\code.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\code\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\code\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\button\\button.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\button\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\button\\button.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\button\\button.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\button\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\button\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\dList\\dList.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\dList\\dList.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\dList\\dList.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\dList\\dList.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\dList\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\dList\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\link\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\link\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\link\\link.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\link\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\link\\link.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\link\\link.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\note\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\note\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\note\\note.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\note\\note.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\note\\note.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\note\\note.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\paragraph\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\paragraph\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\paragraph\\paragraph.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\paragraph\\paragraph.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\paragraph\\paragraph.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\paragraph\\paragraph.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\version\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\version\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\version\\version.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\version\\version.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\common\\version\\version.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\common\\version\\version.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\example\\example.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\example\\example.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\example\\example.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\example\\example.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\example\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\example\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\form\\input\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\form\\input\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\form\\input\\input.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\form\\input\\input.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\form\\input\\input.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\form\\input\\input.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\language\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\language\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\language\\language.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\language\\language.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\language\\language.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\language\\language.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\layout\\container\\container.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\layout\\container\\container.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\layout\\container\\container.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\layout\\container\\container.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\layout\\container\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\layout\\container\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\layout\\contentGrid\\contentGrid.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\layout\\contentGrid\\contentGrid.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\layout\\contentGrid\\contentGrid.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\layout\\contentGrid\\contentGrid.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\layout\\contentGrid\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\layout\\contentGrid\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\layout\\header\\header.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\layout\\header\\header.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\layout\\header\\header.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\layout\\header\\header.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\layout\\header\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\layout\\header\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\navBar\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\navBar\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\navBar\\navBar.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\navBar\\navBar.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\navBar\\navBar.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\navBar\\navBar.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\navToggle\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\navToggle\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\navToggle\\navToggle.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\navToggle\\navToggle.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\navToggle\\navToggle.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\navToggle\\navToggle.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\pageTitle\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\pageTitle\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\pageTitle\\pageTitle.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\pageTitle\\pageTitle.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\pageTitle\\pageTitle.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\pageTitle\\pageTitle.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\param\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\param\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\param\\param.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\param\\param.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\param\\param.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\param\\param.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\param\\paramType.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\param\\paramType.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\section\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\section\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\section\\section.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\section\\section.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\components\\section\\section.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\components\\section\\section.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\context\\appContext.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\context\\appContext.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\data\\dataTypes.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\data\\dataTypes.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\data\\navItemsData.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\data\\navItemsData.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\examples\\code\\commonExamples.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\examples\\code\\commonExamples.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\examples\\code\\disabledRangeDateExample.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\examples\\code\\disabledRangeDateExample.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\examples\\locales\\en.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\examples\\locales\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\examples\\locales\\ru.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\examples\\locales\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\examples\\snippets\\ExampleDisabledRange.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\examples\\snippets\\ExampleDisabledRange.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\hooks\\usePageTitle.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\hooks\\usePageTitle.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\hooks\\useScroll.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\hooks\\useScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\img\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\img\\flags\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\img\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\img\\flags\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\img\\link.svg",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\img\\link.svg"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\jsconfig.json",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\jsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\locales\\en.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\locales\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\locales\\ru.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\locales\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\next.config.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\next.config.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\package.json",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\pages\\_app.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\pages\\_app.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\pages\\docs.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\pages\\docs.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\pages\\examples.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\pages\\examples.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\pages\\examples.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\pages\\examples.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\pages\\home.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\pages\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\pages\\home.module.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\pages\\home.module.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\pages\\methods.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\pages\\methods.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\dp-examples.css",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\dp-examples.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\favicon.ico",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\global.css",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\global.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\mixins.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\objects.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\objects.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\prism-custom.css",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\prism-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\typography.css",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\typography.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\public\\vercel.svg",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\public\\vercel.svg"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\docs\\utils.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\docs\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\index-dev.html",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\index-dev.html"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\index-dev.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\index-dev.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\jest.config.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\jest.config.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\package.json",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\postcss.config.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\postcss.config.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\promo-img.png",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\promo-img.png"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\scripts\\build.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\scripts\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\scripts\\checkGzipSize.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\scripts\\checkGzipSize.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\scripts\\copyPackageFiles.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\scripts\\copyPackageFiles.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\scripts\\generateLocaleTypes.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\scripts\\generateLocaleTypes.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\scripts\\localeTypeContent.ejs",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\scripts\\localeTypeContent.ejs"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\scripts\\makeESIndex.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\scripts\\makeESIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\scripts\\updateVersion.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\scripts\\updateVersion.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\_objects.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\_objects.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\buttonPresets.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\buttonPresets.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\consts.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\consts.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepicker.d.ts",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepicker.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepicker.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepicker.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepicker.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerBody.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerBody.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerBody.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerBody.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerButtons.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerButtons.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerButtons.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerButtons.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerCell.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerCell.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerCell.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerCell.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerKeyboard.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerKeyboard.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerNav.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerNav.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerNav.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerNav.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerTime.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerTime.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerTime.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerTime.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\datepickerVars.scss",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\datepickerVars.scss"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\defaults.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\defaults.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\index.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\da.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\de.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\el.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\en.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\es.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\id.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\it.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\pt-BR.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\si.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\th.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\locale\\zh.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\locale\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\typedefs.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\typedefs.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\utils.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\src\\withEvents.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\src\\withEvents.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\tests\\api.test.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\tests\\api.test.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\tests\\common.test.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\tests\\common.test.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\tests\\events.test.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\tests\\events.test.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\tests\\helpers.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\tests\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\tests\\options.test.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\tests\\options.test.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\tests\\setupTests.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\tests\\setupTests.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\tests\\utils.test.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\tests\\utils.test.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\webpack.config.js",
+      "PackagePath": "staticwebassets\\air-datepicker-3\\webpack.config.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\images\\20240704_135349.jpg",
+      "PackagePath": "staticwebassets\\images\\20240704_135349.jpg"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\images\\logo100x100.png",
+      "PackagePath": "staticwebassets\\images\\logo100x100.png"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebPlan.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebPlan.props",
+      "PackagePath": "build\\WebPlan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebPlan.props",
+      "PackagePath": "buildMultiTargeting\\WebPlan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebPlan.props",
+      "PackagePath": "buildTransitive\\WebPlan.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,611 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD1B475-F6C1-4C8D-B404-7D12A75D338A}|WebPlan.Service\\WebPlan.Service.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.service\\implementations\\datarecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD1B475-F6C1-4C8D-B404-7D12A75D338A}|WebPlan.Service\\WebPlan.Service.csproj|solutionrelative:webplan.service\\implementations\\datarecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD1B475-F6C1-4C8D-B404-7D12A75D338A}|WebPlan.Service\\WebPlan.Service.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.service\\interfaces\\idatarecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD1B475-F6C1-4C8D-B404-7D12A75D338A}|WebPlan.Service\\WebPlan.Service.csproj|solutionrelative:webplan.service\\interfaces\\idatarecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF552D-1CEF-4CF4-B0AF-D4AFA2A0598C}|WebPlan.DAL\\WebPlan.DAL.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.dal\\repositories\\datarecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF552D-1CEF-4CF4-B0AF-D4AFA2A0598C}|WebPlan.DAL\\WebPlan.DAL.csproj|solutionrelative:webplan.dal\\repositories\\datarecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E7A2C2-31E0-40AA-B2D5-52382E940432}|WebPlan.Domain\\WebPlan.Domain.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.domain\\viewmodels\\dateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E7A2C2-31E0-40AA-B2D5-52382E940432}|WebPlan.Domain\\WebPlan.Domain.csproj|solutionrelative:webplan.domain\\viewmodels\\dateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E7A2C2-31E0-40AA-B2D5-52382E940432}|WebPlan.Domain\\WebPlan.Domain.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.domain\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E7A2C2-31E0-40AA-B2D5-52382E940432}|WebPlan.Domain\\WebPlan.Domain.csproj|solutionrelative:webplan.domain\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E7A2C2-31E0-40AA-B2D5-52382E940432}|WebPlan.Domain\\WebPlan.Domain.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.domain\\enum\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E7A2C2-31E0-40AA-B2D5-52382E940432}|WebPlan.Domain\\WebPlan.Domain.csproj|solutionrelative:webplan.domain\\enum\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E7A2C2-31E0-40AA-B2D5-52382E940432}|WebPlan.Domain\\WebPlan.Domain.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.domain\\entity\\datarecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E7A2C2-31E0-40AA-B2D5-52382E940432}|WebPlan.Domain\\WebPlan.Domain.csproj|solutionrelative:webplan.domain\\entity\\datarecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF552D-1CEF-4CF4-B0AF-D4AFA2A0598C}|WebPlan.DAL\\WebPlan.DAL.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF552D-1CEF-4CF4-B0AF-D4AFA2A0598C}|WebPlan.DAL\\WebPlan.DAL.csproj|solutionrelative:webplan.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF552D-1CEF-4CF4-B0AF-D4AFA2A0598C}|WebPlan.DAL\\WebPlan.DAL.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.dal\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF552D-1CEF-4CF4-B0AF-D4AFA2A0598C}|WebPlan.DAL\\WebPlan.DAL.csproj|solutionrelative:webplan.dal\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD1B475-F6C1-4C8D-B404-7D12A75D338A}|WebPlan.Service\\WebPlan.Service.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan.service\\webplan.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CD1B475-F6C1-4C8D-B404-7D12A75D338A}|WebPlan.Service\\WebPlan.Service.csproj|solutionrelative:webplan.service\\webplan.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\webplan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\webplan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\home\\record.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\home\\record.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\wwwroot\\air-datepicker-3\\dist\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\wwwroot\\air-datepicker-3\\dist\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\info\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\info\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\info\\cookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\info\\cookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\wwwroot\\images\\20240704_135349.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\wwwroot\\images\\20240704_135349.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\wwwroot\\images\\logo100x100.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\wwwroot\\images\\logo100x100.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\views\\info\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\views\\info\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|c:\\users\\artur\\desktop\\webz 1.51\\webplan\\webplan\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12A226E8-32B2-40E1-9BC7-95786312FAF5}|WebPlan\\WebPlan.csproj|solutionrelative:webplan\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T15:30:20.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebPlan\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebPlan\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:52:47.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Program.cs",
+              "RelativeDocumentMoniker": "WebPlan\\Program.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Program.cs",
+              "RelativeToolTip": "WebPlan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:38:26.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T20:56:05.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\Repositories\\DataRecordRepository.cs",
+              "RelativeDocumentMoniker": "WebPlan.DAL\\Repositories\\DataRecordRepository.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\Repositories\\DataRecordRepository.cs",
+              "RelativeToolTip": "WebPlan.DAL\\Repositories\\DataRecordRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:21:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\Implementations\\DataRecordService.cs",
+              "RelativeDocumentMoniker": "WebPlan.Service\\Implementations\\DataRecordService.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\Implementations\\DataRecordService.cs",
+              "RelativeToolTip": "WebPlan.Service\\Implementations\\DataRecordService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:39:51.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\Interfaces\\IDataRecordService.cs",
+              "RelativeDocumentMoniker": "WebPlan.Service\\Interfaces\\IDataRecordService.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\Interfaces\\IDataRecordService.cs",
+              "RelativeToolTip": "WebPlan.Service\\Interfaces\\IDataRecordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:39:06.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebPlan\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebPlan\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:25:08.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfoController.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Controllers\\InfoController.cs",
+              "RelativeDocumentMoniker": "WebPlan\\Controllers\\InfoController.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Controllers\\InfoController.cs",
+              "RelativeToolTip": "WebPlan\\Controllers\\InfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:48:12.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\ViewModels\\DateViewModel.cs",
+              "RelativeDocumentMoniker": "WebPlan.Domain\\ViewModels\\DateViewModel.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\ViewModels\\DateViewModel.cs",
+              "RelativeToolTip": "WebPlan.Domain\\ViewModels\\DateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:14:04.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\Response\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "WebPlan.Domain\\Response\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\Response\\BaseResponse.cs",
+              "RelativeToolTip": "WebPlan.Domain\\Response\\BaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:46:14.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatusCode.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\Enum\\StatusCode.cs",
+              "RelativeDocumentMoniker": "WebPlan.Domain\\Enum\\StatusCode.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\Enum\\StatusCode.cs",
+              "RelativeToolTip": "WebPlan.Domain\\Enum\\StatusCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:50:04.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataRecord.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\Entity\\DataRecord.cs",
+              "RelativeDocumentMoniker": "WebPlan.Domain\\Entity\\DataRecord.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\Entity\\DataRecord.cs",
+              "RelativeToolTip": "WebPlan.Domain\\Entity\\DataRecord.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:25:56.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebPlan.DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebPlan.DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:56:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "WebPlan.DAL\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "WebPlan.DAL\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:16:20.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:33:24.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebPlan.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\WebPlan.Service.csproj",
+              "RelativeDocumentMoniker": "WebPlan.Service\\WebPlan.Service.csproj",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\WebPlan.Service.csproj",
+              "RelativeToolTip": "WebPlan.Service\\WebPlan.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T19:07:32.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\appsettings.json",
+              "RelativeDocumentMoniker": "WebPlan\\appsettings.json",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\appsettings.json",
+              "RelativeToolTip": "WebPlan\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T15:11:48.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Home\\List.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Home\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T18:02:48.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebPlan.csproj",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\WebPlan.csproj",
+              "RelativeDocumentMoniker": "WebPlan\\WebPlan.csproj",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\WebPlan.csproj",
+              "RelativeToolTip": "WebPlan\\WebPlan.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawB8BAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T08:55:54.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T12:23:16.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Record.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\Record.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Home\\Record.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\Record.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Home\\Record.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T20:22:03.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T07:17:39.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T14:15:09.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T10:26:16.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\package.json",
+              "RelativeDocumentMoniker": "WebPlan\\wwwroot\\air-datepicker-3\\dist\\package.json",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\air-datepicker-3\\dist\\package.json",
+              "RelativeToolTip": "WebPlan\\wwwroot\\air-datepicker-3\\dist\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T16:46:59.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cookie.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Info\\Cookie.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Info\\Cookie.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Info\\Cookie.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Info\\Cookie.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:58:26.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Info\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Info\\Contacts.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Info\\Contacts.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Info\\Contacts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:57:50.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebPlan\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebPlan\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-13T17:32:40.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebPlan\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebPlan\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAOUAAAAAAAAAAIBZwP4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-05T20:29:28.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "WebPlan\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "WebPlan\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBZwBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-29T09:19:09.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240704_135349.jpg - Bitmap [4080x3060, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\images\\20240704_135349.jpg",
+              "RelativeDocumentMoniker": "WebPlan\\wwwroot\\images\\20240704_135349.jpg",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\images\\20240704_135349.jpg - Bitmap [4080x3060, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "RelativeToolTip": "WebPlan\\wwwroot\\images\\20240704_135349.jpg - Bitmap [4080x3060, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T16:34:54.702Z",
+              "EditorCaption": " - Bitmap [4080x3060, 24-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "logo100x100.png - PNG [100x100, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\images\\logo100x100.png",
+              "RelativeDocumentMoniker": "WebPlan\\wwwroot\\images\\logo100x100.png",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\images\\logo100x100.png - PNG [100x100, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "WebPlan\\wwwroot\\images\\logo100x100.png - PNG [100x100, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T16:35:16.742Z",
+              "EditorCaption": " - PNG [100x100, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "WebPlan\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\wwwroot\\favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "RelativeToolTip": "WebPlan\\wwwroot\\favicon.ico - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-07-27T20:52:40.572Z",
+              "EditorCaption": " - Icon [32x32, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Info\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebPlan\\Views\\Info\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Views\\Info\\Privacy.cshtml",
+              "RelativeToolTip": "WebPlan\\Views\\Info\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T08:20:15.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebPlan\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebPlan\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T19:54:45.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

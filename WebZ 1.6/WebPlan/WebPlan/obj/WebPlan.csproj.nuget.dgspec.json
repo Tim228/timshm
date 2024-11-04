@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\WebPlan.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\WebPlan.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\WebPlan.DAL.csproj",
+        "projectName": "WebPlan.DAL",
+        "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\WebPlan.DAL.csproj",
+        "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\WebPlan.Domain.csproj": {
+                "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\WebPlan.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\WebPlan.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\WebPlan.Domain.csproj",
+        "projectName": "WebPlan.Domain",
+        "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\WebPlan.Domain.csproj",
+        "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\WebPlan.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\WebPlan.Service.csproj",
+        "projectName": "WebPlan.Service",
+        "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\WebPlan.Service.csproj",
+        "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\WebPlan.DAL.csproj": {
+                "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\WebPlan.DAL.csproj"
+              },
+              "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\WebPlan.Domain.csproj": {
+                "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\WebPlan.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\WebPlan.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\WebPlan.csproj",
+        "projectName": "WebPlan",
+        "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\WebPlan.csproj",
+        "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\WebPlan.DAL.csproj": {
+                "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.DAL\\WebPlan.DAL.csproj"
+              },
+              "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\WebPlan.Domain.csproj": {
+                "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Domain\\WebPlan.Domain.csproj"
+              },
+              "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\WebPlan.Service.csproj": {
+                "projectPath": "C:\\Users\\artur\\Desktop\\WebZ 1.51\\WebPlan\\WebPlan.Service\\WebPlan.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
