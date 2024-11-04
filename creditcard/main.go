@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	number := "4400430180300029"
-	if Validate(number) == true {
+	if validate := Validate(number); validate {
 		fmt.Println("isValid")
 	} else {
 		fmt.Println("NoValid")
